@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeafClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="fromphone">从手机中获得叶子照片</string>
+	<string name="fromcamera">从摄像头获得叶子照片</string>
+	<string name="tip">Tip:选择自动去除叶茎（可能效果堪忧）或者直接在图片上手动切除叶茎</string>
+	<string name="autocut">自动去除叶茎</string>
+	<string name="cutfinish">完成</string>
+	<string name="cancel">撤销</string>
+	<string name="confirmem">确认分割</string>
+	<string name="back">返回上一步</string>
+</resources>
